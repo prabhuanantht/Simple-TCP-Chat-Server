@@ -24,8 +24,8 @@ A simple, multi-client TCP chat server built with Python's standard library. No 
 No installation needed! Just clone or download the repository.
 
 ```bash
-git clone <your-repo-url>
-cd chat-server-1
+git clone https://github.com/prabhuanantht/Simple-TCP-Chat-Server.git
+cd chat-server
 ```
 
 ## Running the Server
